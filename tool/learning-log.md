@@ -1,13 +1,15 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Python**
 
-## Project: **X**
+## Project: **Kick the Buddy**
 
 ---
 
-### X/X/XX:
-* Text
+### 11/2/26: 
+* Variables can be created by writing the name of the variable and setting it equal to what you want. 
+* Strings are put in single quotes and double quotes. 
+* You can print out things by writing print('')
 
 ### X/X/XX:
 * Text
